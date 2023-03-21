@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on [Sports Admin](https://sports-reports.herokuapp.com/
-<p ><img src="https://i.imgur.com/BBmUnjv.png" height=200 align="center"> <img src="https://i.imgur.com/lcHyK3Y.jpg" height=200 align="center"></p>
+<p ><img src="https://i.imgur.com/BBmUnjv.png" height=200 width= 320 align="center"> <img src="https://i.imgur.com/lcHyK3Y.jpg" height=200 width= 320 align="center"></p>
 <p></p>
 
 - 📫 How to reach me **pedroromariz1@gmail.com**
