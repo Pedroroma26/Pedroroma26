@@ -7,8 +7,8 @@
 <p>I have a Master's in Mine Engineering but my goal is to persue a carrear in Web Development</p>
 
 
-- 🔭 I’m currently working on [Sports Admin](https://sports-reports.herokuapp.com/)
-<p ><img src="https://i.imgur.com/BBmUnjv.png" height=250 align="center"> <img src="https://i.imgur.com/lcHyK3Y.jpg" height=200 align="center"></p>
+- 🔭 I’m currently working on [Sports Admin](https://sports-reports.herokuapp.com/
+<p ><img src="https://i.imgur.com/BBmUnjv.png" height=200 align="center"> <img src="https://i.imgur.com/lcHyK3Y.jpg" height=200 align="center"></p>
 <p></p>
 
 - 📫 How to reach me **pedroromariz1@gmail.com**
