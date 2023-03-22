@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pedro Romariz</h1>
+<h1 align="center">Hi! 👋 I'm Pedro Romariz</h1>
 <h3 align="center">A passionate junior fullstack developer from Portugal</h3>
 
 <p></p>
 
 <p>Just finished Le Wagon Web Developer Bootcamp.</p>
-<p>I have a Master's in Mine Engineering but my goal is to persue a carrear in Web Development</p>
+<p>I have a Master's in Mine Engineering and was a production engineer in a quarry.</p>
+<p>My goal is to persue a carrear in Web Development</p>
 
 
 - 🔭 I’m currently working on [Sports Admin](https://sports-reports.herokuapp.com/
