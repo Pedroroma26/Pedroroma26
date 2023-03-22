@@ -8,7 +8,7 @@
 <p>My goal is to persue a carrear in Web Development</p>
 
 
-- 🔭 I’m currently working on [Sports Admin](https://sports-reports.herokuapp.com/
+- 🔭 I’m currently working on [Sports Admin](https://sports-reports.herokuapp.com/)
 <p ><img src="https://i.imgur.com/BBmUnjv.png" height=200 width= 320 align="center"> <img src="https://i.imgur.com/lcHyK3Y.jpg" height=200 width= 320 align="center"></p>
 <p></p>
 
