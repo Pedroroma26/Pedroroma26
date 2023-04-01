@@ -21,7 +21,6 @@ Although I have a Master's Degree in Mine Engineering⛏️ I have found more jo
 
 - 📫 Reach me **pedroromariz1@gmail.com**
 <br/>
-<br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -68,7 +67,6 @@ Although I have a Master's Degree in Mine Engineering⛏️ I have found more jo
 <div align="center">
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 
 </td></tr></table>
@@ -77,9 +75,13 @@ Although I have a Master's Degree in Mine Engineering⛏️ I have found more jo
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroroma26" alt="pedroroma26" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroroma26&show_icons=true&locale=en&layout=compact" alt="pedroroma26" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroroma26&show_icons=true&locale=en" alt="pedroroma26" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroroma26&show_icons=true&locale=en&layout=compact" alt="pedroroma26" /></p>
+
+<br/>
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=pedroroma26&show_icons=true&locale=en" alt="pedroroma26" /></p>
 
 <br/>
 
