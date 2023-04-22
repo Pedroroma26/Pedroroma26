@@ -13,7 +13,7 @@ Although I have a Master's Degree in Mine Engineering⛏️ I have found more jo
 - 🔭 I’m currently working on [Football_API](https://github.com/Pedroroma26/Football_Api)
 
 
-- 🌱 I’m currently learning Java anda JavaScript
+- 🌱 I’m currently learning Java and JavaScript
 
 
 - ⚡ Fun fact: I like to invest in stocks 💵
