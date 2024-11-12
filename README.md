@@ -85,8 +85,4 @@ Although I have a Master's Degree in Mine Engineering⛏️ I have found more jo
 
 <br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1195763538&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>
-
-<br/>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedroroma26&label=Profile%20views&color=0e75b6&style=flat" alt="pedroroma26" /> </p>
